@@ -45,7 +45,7 @@ You'll need:
 
 On windows you can easily install a JDK using [scoop](https://scoop.sh)
 ```
-scoop add bucket java
+scoop bucket add java
 scoop install oraclejdk
 ```
 
